@@ -1,4 +1,5 @@
 baseURL = 'https://AOM98.github.io/blog'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme="stack"
+theme = "stack"
+googleAnalytics = 'G-Z2ER5PVVVK'
