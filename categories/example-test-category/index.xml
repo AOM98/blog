@@ -1,10 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example test category on Hugo Theme Stack Starter</title><link>https://demo.stack.jimmycai.com/categories/example-test-category/</link><description>Recent content in Example test category on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/example-test-category/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://demo.stack.jimmycai.com/p/hello-world/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/hello-world/</guid><description>&lt;img src="https://demo.stack.jimmycai.com/p/hello-world/cover.jpg" alt="Featured image of post Hello World" />&lt;p>Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p>
-&lt;p>For more information about this theme, check the documentation: &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
->https://stack.jimmycai.com/&lt;/a>&lt;/p>
-&lt;p>Want a site like this? Check out &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
->hugo-theme-stack-stater&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example test category on Hugo Theme Stack Starter</title><link>https://demo.stack.jimmycai.com/categories/example-test-category/</link><description>Recent content in Example test category on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>AB Lab by Abdullah</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/example-test-category/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://demo.stack.jimmycai.com/p/hello-world/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/hello-world/</guid><description>&lt;img src="https://demo.stack.jimmycai.com/p/hello-world/cover.jpg" alt="Featured image of post Hello World" />&lt;h1 id="-welcome-to-ab-lab-by-abdullah-">🎉 Welcome to AB Lab by Abdullah! 🎉&lt;/h1>
+&lt;p>Hello world and welcome to AB Lab! If you&amp;rsquo;re wondering about the name, it&amp;rsquo;s a fun play on words. &amp;lsquo;AB Lab&amp;rsquo; can be seen as a short form for &amp;lsquo;Abdullah&amp;rsquo;s Lab&amp;rsquo;, as well as a nod to the tech industry&amp;rsquo;s A/B testing. Can interpret this blog as &lt;strong>A Blab&lt;/strong> 😜. But no matter how you interpret it, you&amp;rsquo;re here and I&amp;rsquo;m thrilled to have you!&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/your-banner-image-url"
+loading="lazy"
+alt="AB Lab Banner Image"
+>&lt;br>
+&lt;em>Recommendation: An image that combines elements of a laboratory, a computer setup, and perhaps a fun A/B testing graphic. This sets the tone for your blog as both technical and playful.&lt;/em>&lt;/p>
+&lt;h2 id="-about-me-">🤓 About Me 🤓&lt;/h2>
+&lt;p>I&amp;rsquo;m Abdullah, a software engineer currently wearing the hat of a Jr. Site Reliability Engineer (SRE) / Platform Engineer. For the past 2 years, I&amp;rsquo;ve delved into the world of platform engineering. I am always excited to read ab out and play with new tools! From understanding DevOps culture and learning &lt;em>new&lt;/em> technical tools included in CI/CD, to honing the softer skills of the domain, every day has been a thrilling ride. In my free time, you&amp;rsquo;ll often find me writing on this blog, exploring DevOps tools, or getting engrossed in best practices for SREs, Platform Engineering, and DevOps.&lt;/p>
+&lt;h2 id="-why-ab-lab-">🚀 Why AB Lab? 🚀&lt;/h2>
+&lt;p>The ethos behind this blog is simple: to share, inspire, and grow together.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Sharing Knowledge 💡&lt;/strong>: As I navigate the landscape of SRE and DevOps, I&amp;rsquo;ve gathered insights, best practices, and, yes, lessons from occasional missteps. This blog is my platform to share those with you.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Certification Chronicles 🏆&lt;/strong>: I&amp;rsquo;ve ventured into various technical certifications, from CKA, RHCSA, CKAD, to GCP certificates. And with the goal of doing even more! such as: Terraform, GitOps, RHCA, and beyond. Here, I&amp;rsquo;ll detail my experiences, the highs, the challenges, and everything in between.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Courses and Bootcamps 📚&lt;/strong>: As I continue my never-ending learning journey, expect to see in-depth discussions about courses, bootcamps, books, and other learning avenues that helped me with my journey and in achieving certification / goals.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Inspiration 💭&lt;/strong>: The core goal of AB Lab is to inspire. Whether you&amp;rsquo;re here to pick up a technical trick, insights for a certification, or just to explore the world of DevOps, I hope you leave with a renewed passion.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="-why-now-">🤔 Why Now? 🤔&lt;/h2>
+&lt;p>If you knew me personally, you&amp;rsquo;d be aware of my inherent shyness. The idea of sharing my insights or thoughts publicly was once a daunting prospect. But inspiration, especially from great bloggers like Justin Garrison, has propelled me to break out of my shell and share my tech realm with all of you.&lt;/p>
+&lt;h2 id="-looking-ahead-">🌱 Looking Ahead 🌱&lt;/h2>
+&lt;p>As we journey ahead, anticipate articles on SRE best practices, deep dives into DevOps tools and processes, tales of tech certifications, and much more. And while these are the core themes, anticipate occasional surprises!&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/your-future-topics-image-url"
+loading="lazy"
+alt="Future Topics Image"
+>&lt;br>
+&lt;em>Recommendation: An image that showcases the tools, technologies, and topics you plan to cover, perhaps as icons or logos.&lt;/em>&lt;/p>
+&lt;p>Thank you for embarking on this journey with me. Here&amp;rsquo;s to myriad shared learnings and tech adventures at AB Lab!&lt;/p>
+&lt;ul>
+&lt;li>Abdullah&lt;/li>
+&lt;/ul>
 &lt;blockquote>
-&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
->Pawel Czerwinski&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
->Unsplash&lt;/a>&lt;/p>
+&lt;p>&amp;ldquo;Knowledge shared is knowledge squared.&amp;rdquo; - Unknown&lt;/p>
 &lt;/blockquote></description></item></channel></rss>
