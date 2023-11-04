@@ -2,10 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://demo.stack.jimmycai.com/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://demo.stack.jimmycai.com/archives/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://demo.stack.jimmycai.com/categories/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/tags/example-tag/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/categories/example-test-category/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/p/hello-world/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/page/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/post/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/tags/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/links/</loc>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/search/</loc>
   </url>
 </urlset>
