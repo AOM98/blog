@@ -1,15 +1,18 @@
 ---
-title: "Airplane Testhu"
-description:
-slug: "Airplane"
-date: 2023-09-22T15:58:05+03:00
-image:
+title: air
+description: Welcome to Hugo Theme Stack
+slug: aa
+date: 2023-10-28 00:00:00+0000
+lastmod:
+image: cover.jpg
 categories:
+  - 
 tags:
-weight:
-hidden: false
-comments: false
+  - Example Tag
+image: 
+comments: true
 draft: true
+hidden: false
 ---
 
 Airplane go woosh
