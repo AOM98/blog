@@ -6,7 +6,7 @@ date: 2023-10-28 00:00:00+0000
 lastmod:
 image: cover.jpg
 categories:
-  - Not Technical
+  - Non  Technical
 tags:
   - Welcome
 image: /about_me/blog_banner.png

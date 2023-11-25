@@ -17,6 +17,7 @@ menu:
       icon: link
 
 comments: false
+draft: true
 ---
 
 To use this feature, add `links` section to frontmatter.
