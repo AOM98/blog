@@ -10,6 +10,7 @@ categories:
 tags:
   - Welcome
 image: /about_me/blog_banner.png
+comments: true
 ---
 
 # 🎉 Welcome to AB Lab by Abdullah! 🎉
